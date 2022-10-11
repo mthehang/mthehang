@@ -1,4 +1,4 @@
-## ♨️ Matheus Barboza
+## ♨️ Matheus Barboza de Godoi
 
 <div> 
     <a href="https://instagram.com/mthehang" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -8,18 +8,18 @@
 </div>
 
 
-## Sobre
+## About me
 
-Estudante de Engenharia de Controle e Automação pelo Instituto Federal de São Paulo. Apaixonado por tecnologia, desde hardwares a softwares. Já trabalhei como assistente técnico reparando computadores, notebooks, impressoras, entre outros equipamentos eletrônicos. Atualmente, meu foco está na programação, principalmente no desenvolvimento de projetos. Tenho experiência com interface gráfica (JavaFX e Windows Forms), onde desenvolvi: **sistemas de gerenciamento de estoque**, ** de cadastramento de clientes**, entre outros.
+Student of Control and Automation Engineering at the Federal Institute of São Paulo. Passionate about technology, from hardware to software. I have worked as a technical assistant repairing computers, notebooks, printers, among other electronic equipment. Currently, my focus is on programming, mainly on project development. I have experience with graphical interface (JavaFX and Windows Forms), where I developed: **inventory management systems**, **customer registration systems**, among others.
   
-## Tecnologias
+## Techs
 
 - C# .NET
 - Java
 - Python
 - C
-- SQL Server, MySql, PostgreSQL
-- Git e GitHub
+- SQL Server, MySql and PostgreSQL
+- Git and GitHub
 - Windows Forms
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
