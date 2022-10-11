@@ -10,7 +10,7 @@
 
 ## Sobre
 
-Estudante de Engenharia de Controle e Automação pelo Instituto Federal de São Paulo. Apaixonado por tecnologia, desde hardware a softwares. Já trabalhei como assistente técnico reparando computadores, notebooks, impressoras, entre outros equipamentos eletrônicos. Atualmente, meu foco está na programação, onde desenvolvo projetos de **sistema de gerenciamento de estoque**, **cadastramento de clientes**, entre outros.
+Estudante de Engenharia de Controle e Automação pelo Instituto Federal de São Paulo. Apaixonado por tecnologia, desde hardwares a softwares. Já trabalhei como assistente técnico reparando computadores, notebooks, impressoras, entre outros equipamentos eletrônicos. Atualmente, meu foco está na programação, principalmente no desenvolvimento de projetos. Tenho experiência com interface gráfica (JavaFX e Windows Forms), onde desenvolvi: **sistemas de gerenciamento de estoque**, ** de cadastramento de clientes**, entre outros.
   
 ## Tecnologias
 
