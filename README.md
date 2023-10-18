@@ -15,9 +15,11 @@ Student of Control and Automation Engineering at the Instituto Federal de São P
 ## Techs
 
 - C# .NET
+- C
+- C++
 - Java
 - Python
-- C
+- Micropythono
 - SQL Server, MySql and PostgreSQL
 - Git and GitHub
 - Windows Forms
