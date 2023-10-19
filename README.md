@@ -10,7 +10,7 @@
 
 ## About me
 
-Student of Control and Automation Engineering at the Instituto Federal de São Paulo. I'm passionate about technology, from hardware to software. I have worked as a technical assistant repairing computers, notebooks, printers and another electronic equipment. Currently, my focus is on programming, mainly on project development. I have experience with graphical interface (JavaFX and Windows Forms), where I developed: **inventory management systems**, **customer registration systems**, among others.
+Student of Biomedial Engineering at the Pontifícia Universidade Católica de São Paulo (PUC-SP) and Control and Automation Engineering at the Instituto Federal de São Paulo (IFSP). I'm passionate about technology, from hardware to software. I have worked as a technical assistant repairing computers, notebooks, printers and another electronic equipment. I founded the Robotic Team of IFSP Suzano, I have experience using raspberry, arduino, esp boards, 3D Drawing and welding. Currently, my focus is on programming, mainly on project development. I also have experience with graphical interface (JavaFX and Windows Forms), where I developed: **inventory management systems**, **customer registration systems**, among others.
   
 ## Techs
 
