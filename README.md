@@ -19,7 +19,7 @@ Student of Biomedial Engineering at the Pontifícia Universidade Católica de S�
 - C++
 - Java
 - Python
-- Micropythono
+- Micropython
 - SQL Server, MySql and PostgreSQL
 - Git and GitHub
 - Windows Forms
