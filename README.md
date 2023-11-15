@@ -19,7 +19,6 @@ Student of Biomedial Engineering at the Pontifícia Universidade Católica de S�
 - C++
 - Java
 - Python
-- Micropython
 - SQL Server, MySql and PostgreSQL
 - HTML
 <div style="display: inline_block"><br>
