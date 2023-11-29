@@ -35,6 +35,7 @@ Student of Biomedial Engineering at the Pontifícia Universidade Católica de S�
 <div>
   <p align="center">
   <a href="https://github.com/mthehang">
+    <br>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mthehang&theme=solarized_dark" width="480">
   </a>
 </p>
@@ -42,16 +43,10 @@ Student of Biomedial Engineering at the Pontifícia Universidade Católica de S�
 <div>
   <p align="center">
   <a href="https://github.com/mthehang">
-    <img src="https://badges.pufler.dev/visits/mthehang/mthehang?logo=GitHub&style=plastic&a=0">
-  </a>
-  <a href="https://github.com/mthehang">
     <img src="https://badges.pufler.dev/years/mthehang?logo=GitHub&style=plastic&a=0">
   </a>
   <a href="https://github.com/mthehang?tab=repositories">
     <img src="https://badges.pufler.dev/repos/mthehang?logo=GitHub&style=plastic&a=0">
-  </a>
-  <a href="https://gist.github.com/mthehang">
-    <img src="https://badges.pufler.dev/gists/mthehang?logo=GitHub&style=plastic&a=0">
   </a>
   <a href="https://github.com/mthehang">
     <img src="https://badges.pufler.dev/commits/monthly/mthehang?logo=GitHub&style=plastic&a=0">
