@@ -31,28 +31,3 @@ Student of Biomedial Engineering at the Pontifícia Universidade Católica de S�
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 </div>
-
-<div>
-  <br>
-  <p align="center">
-  <a href="https://github.com/mthehang">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mthehang&theme=solarized_dark" width="480">
-  </a>
-</p>
-</div>
-<div>
-  <p align="center">
-  <a href="https://github.com/mthehang">
-    <img src="https://badges.pufler.dev/years/mthehang?logo=GitHub&style=plastic&a=0">
-  </a>
-  <a href="https://github.com/mthehang?tab=repositories">
-    <img src="https://badges.pufler.dev/repos/mthehang?logo=GitHub&style=plastic&a=0">
-  </a>
-  <a href="https://github.com/mthehang">
-    <img src="https://badges.pufler.dev/commits/monthly/mthehang?logo=GitHub&style=plastic&a=0">
-  </a>
-    <a href="https://github.com/mthehang">
-    <img src="https://badges.pufler.dev/commits/yearly/mthehang?logo=GitHub&style=plastic&a=0">
-  </a>
-</p>
-</div>
