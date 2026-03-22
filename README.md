@@ -1,5 +1,5 @@
 <!-- Animated waving header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,20&height=230&section=header&text=Matheus%20Godoi&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Biomedical%20Engineer%20%E2%80%A2%20Founder%20%40%20ClueMed%20%E2%80%A2%20AI%20%26%20Health%20Tech&descSize=18&descAlignY=55" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:E8732A,50:FF9A56,100:E8732A&height=230&section=header&text=Matheus%20Godoi&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Biomedical%20Engineer%20%E2%80%A2%20Founder%20%40%20ClueMed%20%E2%80%A2%20AI%20%26%20Health%20Tech&descSize=18&descAlignY=55" />
 
 <!-- Typing animation -->
 <div align="center">
@@ -106,4 +106,4 @@ class Matheus:
 </div>
 
 <!-- Animated waving footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,20&height=100&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:E8732A,50:FF9A56,100:E8732A&height=100&section=footer" />
