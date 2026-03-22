@@ -76,14 +76,6 @@ class Matheus:
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mthehang&bg_color=0d1117&color=E8732A&line=E8732A&point=FFFFFF&area=true&area_color=E8732A20&hide_border=true&radius=8)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
-<br/>
-
-<div align="center">
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mthehang/mthehang/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mthehang/mthehang/output/github-snake.svg" />
