@@ -1,33 +1,44 @@
-## ♨️ Matheus Barboza de Godoi
+<h1 align="center">Matheus Barboza de Godoi</h1>
+<h3 align="center">Biomedical Engineer &middot; Founder @ ClueMed &middot; AI & Health Tech</h3>
 
-<div> 
-  <a href="https://instagram.com/mthehang" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:matheus@vts.com.br? Subject: Quero entrar em contato.&body=Olá, Matheus."><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/matheusgodoi-engbio/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/matheusgodoi-engbio/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://store.cluemed.com.br"><img src="https://img.shields.io/badge/ClueMed-00C896?style=flat-square&logoColor=white" /></a>
+  <a href="https://github.com/mthehang"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
+</p>
 
+---
 
-## About me
+### About
 
-Student of Biomedial Engineering at the Pontifícia Universidade Católica de São Paulo (PUC-SP) and Control and Automation Engineering at the Instituto Federal de São Paulo (IFSP). I'm passionate about technology, from hardware to software. I have worked as a technical assistant repairing computers, notebooks, printers and another electronic equipment. I founded the Robotic Team of IFSP Suzano, I have experience using raspberry, arduino, esp boards, 3D Drawing and welding. Currently, my focus is on programming, mainly on project development. I also have experience with graphical interface (JavaFX and Windows Forms), where I developed: **inventory management systems**, **customer registration systems**, among others.
-  
-## Techs
+Biomedical Engineer building at the intersection of **healthcare** and **artificial intelligence**. Currently founder of **[ClueMed](https://store.cluemed.com.br)** — an AI-powered platform that organizes, classifies, and summarizes medical documents automatically — and working in pre-sales at **Labware Brasil**.
 
-- C# .NET
-- C
-- C++
-- Java
-- Python
-- SQL Server, MySql and PostgreSQL
-- HTML
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-</div>
+I'm driven by solving real problems in health with software, from RAG pipelines that process medical records to desktop apps that put AI in the hands of developers.
+
+---
+
+### What I'm building
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| **[ClueMed](https://store.cluemed.com.br)** | AI health document intelligence platform | Django, PostgreSQL, Astro, RAG, ChromaDB |
+| **[Clui CC](https://github.com/mthehang/clui-cc)** | Desktop overlay for Claude Code with multi-tab sessions, auto-update & voice | Electron, TypeScript, React |
+
+---
+
+### Stack
+
+```
+Languages     Python  ·  TypeScript  ·  C++  ·  JavaScript  ·  HTML/CSS
+Backend       Django  ·  PostgreSQL  ·  REST APIs
+Frontend      React  ·  Astro  ·  Electron
+AI/ML         LLMs  ·  RAG  ·  Whisper  ·  ChromaDB  ·  Prompt Engineering
+Infra         Docker  ·  GitHub Actions  ·  n8n  ·  Linux
+```
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mthehang&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mthehang&layout=compact&theme=github_dark&hide_border=true" height="160" />
+</p>
