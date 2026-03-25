@@ -12,7 +12,7 @@
 ```python
 class Matheus:
     role      = "Biomedical Engineer"
-    company   = "ClueMed (Founder) | Labware Brasil (Pre-Sales)"
+    company   = "Labware Brasil (Pre-Sales) | ClueMed (Founder)"
     location  = "Sao Paulo, Brazil"
     focus     = ["AI in Healthcare", "LLMs & RAG", "Automation", "Full-Stack"]
     education = "Biomedical Engineering"
