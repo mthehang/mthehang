@@ -12,13 +12,12 @@
 ```python
 class Matheus:
     role      = "Biomedical Engineer"
-    company   = "Labware Brasil (Pre-Sales) | ClueMed (Founder)"
+    company   = "Labware Brasil (Pre-Sales)"
     location  = "Sao Paulo, Brazil"
     focus     = ["AI in Healthcare", "LLMs & RAG", "Automation", "Full-Stack"]
     education = "Biomedical Engineering"
 
     currently_building = {
-        "ClueMed":  "AI-powered medical document intelligence",
         "Clui CC":  "Desktop overlay UI for Claude Code",
     }
 ```
@@ -57,7 +56,6 @@ class Matheus:
 
 | | Project | Description |
 |:--|:--------|:------------|
-| **[ClueMed](https://store.cluemed.com.br)** | AI Health Intelligence | Organizes exams, prescriptions & reports automatically with RAG |
 | **[Clui CC](https://github.com/mthehang/clui-cc)** | Claude Code Desktop | Overlay UI with multi-tab, voice input, remote control & auto-update |
 
 ---
@@ -89,8 +87,5 @@ class Matheus:
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheusgodoi-engbio/)
-&nbsp;
-[![ClueMed](https://img.shields.io/badge/ClueMed-E8732A?style=for-the-badge&logoColor=white)](https://store.cluemed.com.br)
 
 </div>
-
