@@ -11,11 +11,11 @@
 
 ```python
 class Matheus:
-    roles     = ["Founder & Engineer", "Biomedical Engineer"]
+    roles     = ["Founder & Engineer", "Medical Engineer"]
     companies = ["ClueMed Healthtech", "Labware Brasil"]
     location  = "Sao Paulo, Brazil"
     focus     = ["AI in Healthcare", "LLMs & RAG", "Automation", "Full-Stack"]
-    education = "Biomedical Engineering"
+    education = "Medical Engineering"
 
     currently_building = {
         "ClueMed":  "Innovating healthtech solutions",
