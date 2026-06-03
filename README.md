@@ -19,5 +19,4 @@ class Matheus:
 
     currently_building = {
         "ClueMed":  "Innovating healthtech solutions",
-        "Clui CC":  "Desktop overlay UI for Claude Code",
     }
